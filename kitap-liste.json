@@ -1,0 +1,32 @@
+[
+    {
+      "ad": "Fahrenheit 451",
+      "yazar": "Ray Bradbury",
+      "fiyat": 25.99,
+      "stok_adedi": 50
+    },
+    {
+      "ad": "1984",
+      "yazar": "George Orwell",
+      "fiyat": 19.99,
+      "stok_adedi": 35
+    },
+    {
+      "ad": "Yabancı",
+      "yazar": "Albert Camus",
+      "fiyat": 18.50,
+      "stok_adedi": 28
+    },
+    {
+      "ad": "Harry Potter ve Felsefe Taşı",
+      "yazar": "J.K. Rowling",
+      "fiyat": 29.95,
+      "stok_adedi": 42
+    },
+    {
+      "ad": "Sefiller",
+      "yazar": "Victor Hugo",
+      "fiyat": 21.75,
+      "stok_adedi": 20
+    }
+  ]
